@@ -1,0 +1,15 @@
+how to turn this thing back into RX mode
+:disable hostapd
+(sudo service hostapd stop)
+:disable dnsmasquerade
+(sudo service dnsmasq stop)
+:open wireless and... settings
+(right click the up down arrow)
+	choose interface then wlan0
+	clear the settings and apply 
+	(clear 192.168.4.1/24)
+
+dont forget to turn back everything 
+(sudo service hostapd start)
+(sudo service dnsmasq start)
+wireless settings ipv4: 192.168.4.1/24

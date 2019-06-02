@@ -1,0 +1,7 @@
+WARNING:root:active partition: sdb2
+WARNING:root:nyala.service should stop
+WARNING:root:devurules.service should start, and lcd running
+WARNING:root:waiting for drive to be mounted
+WARNING:root:directory: ['47%', '/media/pi/Local', 'Disk5']
+WARNING:root:drive: ['998G', '47%', '/media/pi/Local', 'Disk5']
+WARNING:root:BANANY swithcing to idle (devurules)

@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pyfastcopy/__init__.py
+pyfastcopy.egg-info/PKG-INFO
+pyfastcopy.egg-info/SOURCES.txt
+pyfastcopy.egg-info/dependency_links.txt
+pyfastcopy.egg-info/requires.txt
+pyfastcopy.egg-info/top_level.txt
