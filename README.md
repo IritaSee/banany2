@@ -8,3 +8,5 @@ BANANY is under prototype stage.
 Achievements:
 Version 1.0: Bronze Medal and Special Award in Malaysia Technology Expo 2018
 Version 2.0: Gold Medal and Special Award from HIUF in Japan Design and Invention Expo 2019
+
+Patent detail is accessible [here](https://pdki-indonesia.dgip.go.id/detail/EC00201821317?type=copyright)
